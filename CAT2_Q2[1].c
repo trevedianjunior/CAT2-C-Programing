@@ -1,7 +1,8 @@
+//A a program requesting the users input and calculates the net pay 
 /*
 Name: Trevedian Junior
 Reg no; PA106/G/28831/25
-Description; a program requesting the users input and calculate the net pay
+Description; a program  calculating net pay after obtaining user's input
 */
 #include <stdio.h>
 
